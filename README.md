@@ -13,8 +13,8 @@ There are 10 column including 7 of it is an input variables:
 - Table length : 43% - 95%
 - Price (USD) : $326 - $18,823
 
-= Table is the width of the diamond table which is top or(flat surface) of the diamond.
-= Depth is the height of a diamond. It is measured from the culet(bottom) to the table(top) 
+~ Table is the width of the diamond table which is top or(flat surface) of the diamond.
+~ Depth is the height of a diamond. It is measured from the culet(bottom) to the table(top) 
 and divided by its average girdle diameter.
 
 ## Task
