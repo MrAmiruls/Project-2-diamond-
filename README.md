@@ -1,4 +1,4 @@
-# Project_4 - Diamond - Price - Prediction
+# Project_4 - Diamond Price Prediction
 This dataset contains the prices and other attributes of almost 54,000 diamonds
 The whole of the dataset is in the shorturl.at/htwyY for your own work.
 Diamond dataset was done by using Python Language on Spyder notebook.
