@@ -39,7 +39,8 @@ To see the difference between before arrange the categories by ascending order.
 ## Graph
 To see the difference between before arrange the categories by ascending order.
 ### before
-![results](https://user-images.githubusercontent.com/85603599/164147093-29448245-ee84-4496-897c-22dda4b799e7.png)
-### after
 ![result](https://user-images.githubusercontent.com/85603599/164147271-49458ff4-de6c-460c-bdef-0e0a5529ebde.png)
+### after
+![results](https://user-images.githubusercontent.com/85603599/164147093-29448245-ee84-4496-897c-22dda4b799e7.png)
+
 
