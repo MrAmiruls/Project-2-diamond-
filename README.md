@@ -30,17 +30,17 @@ and divided by its average girdle diameter.
 ## Result
 Loss, Mean Square Error and Mean Absolute Error
 To see the difference between before arrange the categories by ascending order. 
-### Before
+#### BEFORE
 ![before](https://user-images.githubusercontent.com/85603599/164148746-8b4904ec-dd1d-47a9-9b87-0b98331dc2b8.jpg)
-### After
+#### AFTER
 ![Screenshot 2022-04-20 095120](https://user-images.githubusercontent.com/85603599/164148853-c4edfcb2-6170-458a-8c51-6da0558a5d80.jpg)
 
 
 ## Graph
 To see the difference between before arrange the categories by ascending order.
-### before
+#### BEFORE
 ![result](https://user-images.githubusercontent.com/85603599/164147271-49458ff4-de6c-460c-bdef-0e0a5529ebde.png)
-### after
+#### AFTER
 ![results](https://user-images.githubusercontent.com/85603599/164147093-29448245-ee84-4496-897c-22dda4b799e7.png)
 
 
