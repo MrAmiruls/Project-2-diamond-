@@ -33,7 +33,7 @@ To see the difference between before arrange the categories by ascending order.
 #### BEFORE
 ![before](https://user-images.githubusercontent.com/85603599/164148746-8b4904ec-dd1d-47a9-9b87-0b98331dc2b8.jpg)
 #### AFTER
-![Screenshot 2022-04-20 095120](https://user-images.githubusercontent.com/85603599/164148853-c4edfcb2-6170-458a-8c51-6da0558a5d80.jpg)
+![After](https://user-images.githubusercontent.com/85603599/164178993-ba0dab35-76b7-4241-818b-3717edb47be4.jpg)
 
 
 ## Graph
@@ -42,5 +42,6 @@ To see the difference between before arrange the categories by ascending order.
 ![result](https://user-images.githubusercontent.com/85603599/164147271-49458ff4-de6c-460c-bdef-0e0a5529ebde.png)
 #### AFTER
 ![results](https://user-images.githubusercontent.com/85603599/164147093-29448245-ee84-4496-897c-22dda4b799e7.png)
+
 
 
