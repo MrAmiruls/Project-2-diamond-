@@ -5,16 +5,16 @@ Diamond dataset was done by using Python Language on Spyder notebook.
 
 ## Data
 There are 10 column including 7 of it is an input variables:
-Carat (Weight) : 0.2Kg - 5.01Kg
-Cut : Fair, Good, Very Good, Premium, Ideal
-Color : from J (Worst) to D (Best)
-Clarity : I1 (Worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (Best)
-Depth length : 43% - 79%
-Table length : 43% - 95%
-Price (USD) : $326 - $18,823
+- Carat (Weight) : 0.2Kg - 5.01Kg
+- Cut : Fair, Good, Very Good, Premium, Ideal
+- Color : from J (Worst) to D (Best)
+- Clarity : I1 (Worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (Best)
+- Depth length : 43% - 79%
+- Table length : 43% - 95%
+- Price (USD) : $326 - $18,823
 
-Table is the width of the diamond table which is top or(flat surface) of the diamond.
-Depth is the height of a diamond. It is measured from the culet(bottom) to the table(top) 
+= Table is the width of the diamond table which is top or(flat surface) of the diamond.
+= Depth is the height of a diamond. It is measured from the culet(bottom) to the table(top) 
 and divided by its average girdle diameter.
 
 ## Task
